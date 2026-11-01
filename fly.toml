@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for bedrock-voice-chat on 2026-11-01T17:26:30Z
+# fly.toml app configuration file generated for bedrock-voice-chat on 2026-11-01T17:27:16Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
 app = 'bedrock-voice-chat'
-primary_region = 'iad'
+primary_region = 'sin'
 
 [build]
 
