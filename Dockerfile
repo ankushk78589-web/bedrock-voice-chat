@@ -1,1 +1,3 @@
-ghcr.io/alaydriem/bedrock-voice-chat/server:latest
+FROM ghcr.io/alaydriem/bedrock-voice-chat/server:latest
+
+
