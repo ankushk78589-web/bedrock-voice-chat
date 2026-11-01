@@ -1,6 +1,6 @@
-# fly.toml app configuration file generated for bedrock-voice-chat on 2026-11-01T16:53:59Z
+# fly.toml app configuration file generated for bedrock-voice-chat on 2026-11-01T17:24:59Z
 #
-# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+# See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
 app = 'bedrock-voice-chat'
@@ -9,7 +9,7 @@ primary_region = 'iad'
 [build]
 
 [http_service]
-  internal_port = 8080
+  internal_port = 20063
   force_https = true
   auto_stop_machines = 'stop'
   auto_start_machines = true
